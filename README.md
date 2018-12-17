@@ -1,2 +1,2 @@
 # Cats_Dogs
-A custom convolution neural network built with Tensorflow and Keras for classification of cats and dogs
+A custom convolutional neural network built with Tensorflow and Keras for classification of cats and dogs
